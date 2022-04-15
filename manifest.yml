@@ -1,4 +1,4 @@
-  applications:
+applications:
   - name: onlinecourse
     routes:
       - route: vhui77.mybluemix.net
